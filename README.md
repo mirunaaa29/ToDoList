@@ -11,3 +11,6 @@ This ToDo List App is a simple web application created using HTML, CSS, and Java
 
 ### Purpose
 This app was designed to help me stay organized.
+
+## Future Updates
+While the current version prioritizes functionality, future updates will include improvements to the design for a more visually appealing user experience.
